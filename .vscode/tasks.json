@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Java: Compile",
+        "type": "shell",
+        "command": "javac",
+        "args": [
+          "-d",
+          "bin",
+          "{C:/Users/aviez/Documents/OOP_Exercise/vehicle_rental_system2/OOP_Exercise_java}/src/*.java"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
+  
