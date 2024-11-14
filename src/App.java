@@ -1,3 +1,5 @@
+// This file is for repository of methods which are not in use now, but maybe later on.
+
 public class App {
 
     public static void printCar(Car car, Customer customer) {
